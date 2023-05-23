@@ -1,0 +1,2 @@
+1;Cristiano;Ronaldo;7;delantero
+2;Leo;Messi;10;delantero
